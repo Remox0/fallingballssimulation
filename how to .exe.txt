@@ -1,0 +1,9 @@
+=====How to .exe=====
+
+1. Open bash
+2. Type: "pip install pyinstaller"
+3. Go to project (cd xyz)
+4. Type "pyinstaller --onefile main.py"
+5. In "dist" folder will be main.exe
+
+=====================
