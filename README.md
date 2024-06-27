@@ -9,11 +9,11 @@ git clone https://github.com/Remox0/fallingballssimulation.git
 ```
 
 ## Functions 🪛:
-- Adding/Removing Balls: Ability to add and remove balls using the "+" and "-" buttons.
-- Pause: Ability to pause and resume the simulation.
-- Reset: Reset the position of all balls to their initial state.
-- Ball counter: Display the current number of balls on the screen.
-- FPS Counter: Displays the number of frames per second (FPS) in the lower left corner.
+- **Adding/Removing Balls**: Ability to add and remove balls using the "+" and "-" buttons.
+- **Pause**: Ability to pause and resume the simulation.
+- **Reset**: Reset the position of all balls to their initial state.
+- **Ball counter**: Display the current number of balls on the screen.
+- **FPS Counter**: Displays the number of frames per second (FPS) in the lower left corner.
 
 ## How to run? ⚙️
 1. Clone the repository to your local computer:
