@@ -13,7 +13,7 @@ git clone https://github.com/Remox0/fallingballssimulation.git
 - Pause: Ability to pause and resume the simulation.
 - Reset: Reset the position of all balls to their initial state.
 - Ball counter: Display the current number of balls on the screen.
-- Licznik FPS: Wyświetlanie liczby klatek na sekundę (FPS) w lewym dolnym rogu.
+- FPS Counter: Displays the number of frames per second (FPS) in the lower left corner.
 
 ## How to run? ⚙️
 1. Clone the repository to your local computer:
