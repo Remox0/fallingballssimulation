@@ -1,7 +1,6 @@
 
 # Falling Balls Simulation in Python
 
-<br>
 ## About this project 🐍:
 **This project** simulates balls bouncing inside a circle, taking gravity into account. The balls leave a trail as they move, and the user can add or remove balls as well as control the speed of the simulation. The simulation also includes functions such as pause, resetting the ball position. (All written in python3)
 
