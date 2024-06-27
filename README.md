@@ -41,4 +41,4 @@ python main.py
 <img src="https://cdn.discordapp.com/attachments/1046870966950707362/1256017813060190391/scr1.png?ex=667f3d3e&is=667debbe&hm=8e84815fff00afce069176d7dbceb2e6bb322896a1631c22a564b24565dff2c6&" alt="Grabki v1.2" width="800">
 
 ## Author 📝:
-- Remox0 (rx1000)
+- [Remox0](https://github.com/Remox0)
