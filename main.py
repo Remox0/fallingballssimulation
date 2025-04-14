@@ -144,5 +144,5 @@ while running:
     screen.blit(fps_text, (10, HEIGHT - 30))
 
     pygame.display.flip()
-    clock.tick(75)
+    clock.tick(60)
 pygame.quit()
